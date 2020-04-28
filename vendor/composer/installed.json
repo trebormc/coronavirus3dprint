@@ -359,20 +359,6 @@
         ]
     },
     {
-        "name": "billboardjs/billboard",
-        "version": "1.6.2",
-        "version_normalized": "1.6.2.0",
-        "dist": {
-            "type": "zip",
-            "url": "https://github.com/naver/billboard.js/archive/1.6.2.zip"
-        },
-        "type": "drupal-library",
-        "extra": {
-            "installer-name": "billboard"
-        },
-        "installation-source": "dist"
-    },
-    {
         "name": "chi-teck/drupal-code-generator",
         "version": "1.31.0",
         "version_normalized": "1.31.0.0",
@@ -1687,23 +1673,6 @@
             }
         ],
         "description": "Provides a way to patch Composer packages."
-    },
-    {
-        "name": "d3v4/d3",
-        "version": "4.9.1",
-        "version_normalized": "4.9.1.0",
-        "dist": {
-            "type": "file",
-            "url": "https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.js"
-        },
-        "require": {
-            "composer/installers": "~1.0"
-        },
-        "type": "drupal-library",
-        "extra": {
-            "installer-name": "d3v4"
-        },
-        "installation-source": "dist"
     },
     {
         "name": "d8-contrib-modules/cloudflarephpsdk",
@@ -7815,23 +7784,6 @@
             "send",
             "sendgrid"
         ]
-    },
-    {
-        "name": "google/charts",
-        "version": "45",
-        "version_normalized": "45.0.0.0",
-        "dist": {
-            "type": "file",
-            "url": "https://www.gstatic.com/charts/loader.js"
-        },
-        "require": {
-            "composer/installers": "~1.0"
-        },
-        "type": "drupal-library",
-        "extra": {
-            "installer-name": "google_charts"
-        },
-        "installation-source": "dist"
     },
     {
         "name": "grasmash/expander",

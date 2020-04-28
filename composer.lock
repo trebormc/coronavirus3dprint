@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "857e1de766829ad5191efeb93bc57927",
+    "content-hash": "fc7c42b35274f5bb12caa07e42dc98a3",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -121,18 +121,6 @@
                 "stack"
             ],
             "time": "2019-12-24T22:41:47+00:00"
-        },
-        {
-            "name": "billboardjs/billboard",
-            "version": "1.6.2",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/naver/billboard.js/archive/1.6.2.zip"
-            },
-            "type": "drupal-library",
-            "extra": {
-                "installer-name": "billboard"
-            }
         },
         {
             "name": "chi-teck/drupal-code-generator",
@@ -1173,21 +1161,6 @@
             ],
             "description": "Provides a way to patch Composer packages.",
             "time": "2019-08-29T20:11:49+00:00"
-        },
-        {
-            "name": "d3v4/d3",
-            "version": "4.9.1",
-            "dist": {
-                "type": "file",
-                "url": "https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.js"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "drupal-library",
-            "extra": {
-                "installer-name": "d3v4"
-            }
         },
         {
             "name": "d8-contrib-modules/cloudflarephpsdk",
@@ -6925,21 +6898,6 @@
                 "sendgrid"
             ],
             "time": "2019-01-16T00:58:24+00:00"
-        },
-        {
-            "name": "google/charts",
-            "version": "45",
-            "dist": {
-                "type": "file",
-                "url": "https://www.gstatic.com/charts/loader.js"
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "drupal-library",
-            "extra": {
-                "installer-name": "google_charts"
-            }
         },
         {
             "name": "grasmash/expander",

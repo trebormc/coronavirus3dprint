@@ -17,10 +17,8 @@
     ],
     "require": {
         "php": ">=7.0.8",
-        "billboardjs/billboard": "1.6.2",
         "composer/installers": "^1.8",
         "cweagans/composer-patches": "^1.6.5",
-        "d3v4/d3": "4.9.1",
         "drupal/admin_login_path": "^1.0",
         "drupal/admin_toolbar": "^2.0",
         "drupal/admin_toolbar_mediteran": "^1.2",
@@ -80,7 +78,6 @@
         "drupal/views_infinite_scroll": "^1.6",
         "drupal/x_frame_options": "^1.1",
         "drush/drush": "^9.7.1 | ^10.0.0",
-        "google/charts": "45",
         "topfloor/composer-cleanup-vcs-dirs": "^1.0",
         "vlucas/phpdotenv": "^4.0",
         "webflo/drupal-finder": "^1.0.0",
