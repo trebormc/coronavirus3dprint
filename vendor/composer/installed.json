@@ -3041,6 +3041,10 @@
                     "status": "covered",
                     "message": "Covered by Drupal's security advisory policy"
                 }
+            },
+            "patches_applied": {
+                "https://www.drupal.org/project/captcha/issues/3032742#comment-13364556": "https://www.drupal.org/files/issues/2019-11-23/3032742-6.captcha.captchacron-removes-captchasessions-that-may-still-have-open-PHP-sessions.patch",
+                "https://www.drupal.org/project/captcha/issues/3089263": "https://www.drupal.org/files/issues/2019-12-11/3089263-24.captcha.Captcha-Session-ID-broken-with-cacheable-captcha-backends.patch"
             }
         },
         "installation-source": "dist",

@@ -138,6 +138,10 @@
                 "Return translated title for \"Content: ID\" views contextual filter (https://www.drupal.org/project/drupal/issues/2952252)": "https://www.drupal.org/files/issues/2019-12-22/2952252-18.patch",
                 "View titles in breadcrumb don't get properly translated (https://www.drupal.org/project/drupal/issues/2716019)": "https://www.drupal.org/files/issues/2019-07-17/drupal-n2716019-67.patch"
             },
+            "drupal/captcha": {
+                "https://www.drupal.org/project/captcha/issues/3032742#comment-13364556": "https://www.drupal.org/files/issues/2019-11-23/3032742-6.captcha.captchacron-removes-captchasessions-that-may-still-have-open-PHP-sessions.patch",
+                "https://www.drupal.org/project/captcha/issues/3089263": "https://www.drupal.org/files/issues/2019-12-11/3089263-24.captcha.Captcha-Session-ID-broken-with-cacheable-captcha-backends.patch"
+            },
             "drupal/geolocation": {
                 "Allow specify multiple subdomains in custom leaflet maps titles layers": "patches/custom_title_leaflet_layer.patch"
             },

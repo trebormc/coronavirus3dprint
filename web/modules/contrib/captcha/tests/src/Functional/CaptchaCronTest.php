@@ -32,6 +32,8 @@ class CaptchaCronTest extends BrowserTestBase {
   public function setUp() {
     parent::setUp();
 
+    ini_set('session.gc_maxlifetime', 60 * 60 * 24);
+
     // Get request time.
     $request_time = \Drupal::time()->getRequestTime();
 
